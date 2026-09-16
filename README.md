@@ -28,3 +28,14 @@ O arquivo `.pbix` está disponível neste repositório.
 ## Objetivo
 
 Praticar a criação de dashboards, organização de visuais e análise de dados utilizando o Power BI.
+
+## Dashboard
+
+### Primeiro Dashboard
+![Primeiro Dashboard](primeirodashboard.png)
+
+### Segundo Dashboard
+![Segundo Dashboard](segundodashboard.png)
+
+### Terceiro Dashboard
+![Terceiro Dashboard](terceirodashboard.png)
